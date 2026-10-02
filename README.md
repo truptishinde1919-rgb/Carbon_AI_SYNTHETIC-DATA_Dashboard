@@ -38,4 +38,4 @@ streamlit run app.py
 Metrics are computed from the data, never hard-coded. On this synthetic set the yield and capacitance models
 show moderate skill, while the power and energy models have negative R² (worse than predicting the mean),
 because current and voltage in the demo data are not driven by the process inputs. The dashboard shows this
-openly; it is a property of the data, not a bug.
+openly; it is a property of the data, not a bug. and this model created using synthetic data it define that if i gote my real data it looks like this.
